@@ -1,0 +1,5 @@
+ec2 -- dashboard
+instances-launch instance-instance name-select os(windows)-create key pair(.pem)
+download =launch instance
+select the respective instance - connect -rdp client
+generate passsword-upload pem file(download)-decrypy
